@@ -8,4 +8,4 @@
 * HTML5, CSS3 And Sass
 
 ## Configuration and Run
-> Clone this repository. From "Clone folder" just open ** index.html ** with a web browser.
+Clone this repository. From "Clone folder" just open **index.html** with a web browser.
